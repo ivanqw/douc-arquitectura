@@ -25,6 +25,7 @@ namespace CapaEscritorio
         {
             Negocio auxNegocio = new Negocio();
             this.dgListar.DataSource = auxNegocio.listarFilas();
+            //tabla de la que recoge los datos
             this.dgListar.DataMember = "transaccion";
             
         }

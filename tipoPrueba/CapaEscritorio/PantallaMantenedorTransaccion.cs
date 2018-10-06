@@ -22,10 +22,10 @@ namespace CapaEscritorio
 
         private void noEditables()
         {
-            /*this.txtPiezasTotales.ReadOnly = true;
+            this.txtPiezasTotales.ReadOnly = true;
             this.txtKilosTotales.ReadOnly = true;
             this.txtPiezasTotales.BackColor = Color.White;
-            this.txtKilosTotales.BackColor = Color.White;*/
+            this.txtKilosTotales.BackColor = Color.White;
 
         }
         
@@ -39,15 +39,23 @@ namespace CapaEscritorio
                     try
                     {
                         Transaccion auxTransaccion = new Transaccion();
+                        Negocio auxNegocio = new Negocio();
+
                         auxTransaccion.Cod_producto = this.txtCodigoProducto.Text;
                         auxTransaccion.Nom_producto = this.txtNombreProducto.Text;
                         auxTransaccion.Peso_producto = int.Parse(this.txtPesoProducto.Text);
                         auxTransaccion.Piezas_producidas = int.Parse(this.txtPiezasProducidas.Text);
                         auxTransaccion.Piezas_malas = int.Parse(this.txtPiezasMalas.Text);
+
+                        
                         auxTransaccion.Piezas_totales = int.Parse(this.txtPiezasTotales.Text);
                         auxTransaccion.Kilos_totales = int.Parse(this.txtKilosTotales.Text);
-                        Negocio auxNegocio = new Negocio();
+                        
+                        /*
+                        auxNegocio.totalesTransanccion(auxTransaccion);
+                        */
                         auxNegocio.grabarTransaccion(auxTransaccion);
+
                         this.limpiar(this);
                         MessageBox.Show("Transacción guardada","exito");
                     }

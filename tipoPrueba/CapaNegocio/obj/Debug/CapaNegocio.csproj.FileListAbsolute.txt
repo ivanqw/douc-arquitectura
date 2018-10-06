@@ -9,3 +9,14 @@ D:\duoc\arquitectura\tipoPrueba\tipoPrueba\CapaNegocio\obj\Debug\CapaNegocio.csp
 D:\duoc\arquitectura\tipoPrueba\tipoPrueba\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
 D:\duoc\arquitectura\tipoPrueba\tipoPrueba\CapaNegocio\obj\Debug\CapaNegocio.dll
 D:\duoc\arquitectura\tipoPrueba\tipoPrueba\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\duoc\duoc-arquitectura\tipoPrueba\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\duoc\duoc-arquitectura\tipoPrueba\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\duoc\duoc-arquitectura\tipoPrueba\CapaNegocio\bin\Debug\CapaConexion.dll
+D:\duoc\duoc-arquitectura\tipoPrueba\CapaNegocio\bin\Debug\CapaModelo.dll
+D:\duoc\duoc-arquitectura\tipoPrueba\CapaNegocio\bin\Debug\CapaConexion.pdb
+D:\duoc\duoc-arquitectura\tipoPrueba\CapaNegocio\bin\Debug\CapaModelo.pdb
+D:\duoc\duoc-arquitectura\tipoPrueba\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+D:\duoc\duoc-arquitectura\tipoPrueba\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\duoc\duoc-arquitectura\tipoPrueba\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\duoc\duoc-arquitectura\tipoPrueba\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\duoc\duoc-arquitectura\tipoPrueba\CapaNegocio\obj\Debug\CapaNegocio.pdb

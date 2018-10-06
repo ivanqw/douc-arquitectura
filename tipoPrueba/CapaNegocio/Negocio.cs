@@ -6,6 +6,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using CapaModelo;
 
 namespace CapaNegocio
 {
@@ -37,12 +38,29 @@ namespace CapaNegocio
         }
 
         public DataSet listarFilas()
+            //muestra las filas en el data grid
         {
             this.configurarConexion();
-            this.Conect1.CadenaSQL = "Select nom_producto,piezas_totales, kilos_totales from " + this.Conect1.NombreTabla;
+            this.Conect1.CadenaSQL = "Select nom_producto as 'Nombre  Producto',piezas_totales as 'Piezas Totales', kilos_totales as 'Kilos Totales' from " + this.Conect1.NombreTabla;
             this.Conect1.EsSelect = true;
             this.Conect1.conectar();
             return this.Conect1.DbDataSet;
         }
+
+        public Transaccion totalesTransanccion(Transaccion auxTransaccion)
+        {
+            
+            int Peso_producto = auxTransaccion.Peso_producto;
+            int Piezas_producidas = auxTransaccion.Piezas_producidas;
+            int Piezas_malas = auxTransaccion.Piezas_malas;
+
+            //calculos
+
+            auxTransaccion.Piezas_totales = Piezas_producidas - Piezas_malas;
+            auxTransaccion.Kilos_totales = Peso_producto * auxTransaccion.Piezas_totales;
+
+            return auxTransaccion;
+        }
+
     }
 }
