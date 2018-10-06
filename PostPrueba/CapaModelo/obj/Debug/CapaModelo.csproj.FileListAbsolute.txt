@@ -1,0 +1,6 @@
+D:\duoc\duoc-arquitectura\PostPrueba\CapaModelo\bin\Debug\CapaModelo.dll
+D:\duoc\duoc-arquitectura\PostPrueba\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\duoc\duoc-arquitectura\PostPrueba\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+D:\duoc\duoc-arquitectura\PostPrueba\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\duoc\duoc-arquitectura\PostPrueba\CapaModelo\obj\Debug\CapaModelo.dll
+D:\duoc\duoc-arquitectura\PostPrueba\CapaModelo\obj\Debug\CapaModelo.pdb

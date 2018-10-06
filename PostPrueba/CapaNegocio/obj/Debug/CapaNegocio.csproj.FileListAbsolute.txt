@@ -1,0 +1,11 @@
+D:\duoc\duoc-arquitectura\PostPrueba\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\duoc\duoc-arquitectura\PostPrueba\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\duoc\duoc-arquitectura\PostPrueba\CapaNegocio\bin\Debug\CapaConexion.dll
+D:\duoc\duoc-arquitectura\PostPrueba\CapaNegocio\bin\Debug\CapaModelo.dll
+D:\duoc\duoc-arquitectura\PostPrueba\CapaNegocio\bin\Debug\CapaConexion.pdb
+D:\duoc\duoc-arquitectura\PostPrueba\CapaNegocio\bin\Debug\CapaModelo.pdb
+D:\duoc\duoc-arquitectura\PostPrueba\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+D:\duoc\duoc-arquitectura\PostPrueba\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\duoc\duoc-arquitectura\PostPrueba\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\duoc\duoc-arquitectura\PostPrueba\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\duoc\duoc-arquitectura\PostPrueba\CapaNegocio\obj\Debug\CapaNegocio.pdb

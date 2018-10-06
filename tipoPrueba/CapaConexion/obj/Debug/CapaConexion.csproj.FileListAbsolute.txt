@@ -4,3 +4,9 @@ D:\duoc\arquitectura\tipoPrueba\tipoPrueba\CapaConexion\obj\Debug\CapaConexion.c
 D:\duoc\arquitectura\tipoPrueba\tipoPrueba\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
 D:\duoc\arquitectura\tipoPrueba\tipoPrueba\CapaConexion\obj\Debug\CapaConexion.dll
 D:\duoc\arquitectura\tipoPrueba\tipoPrueba\CapaConexion\obj\Debug\CapaConexion.pdb
+D:\duoc\duoc-arquitectura\tipoPrueba\CapaConexion\bin\Debug\CapaConexion.dll
+D:\duoc\duoc-arquitectura\tipoPrueba\CapaConexion\bin\Debug\CapaConexion.pdb
+D:\duoc\duoc-arquitectura\tipoPrueba\CapaConexion\obj\Debug\CapaConexion.csprojAssemblyReference.cache
+D:\duoc\duoc-arquitectura\tipoPrueba\CapaConexion\obj\Debug\CapaConexion.csproj.CoreCompileInputs.cache
+D:\duoc\duoc-arquitectura\tipoPrueba\CapaConexion\obj\Debug\CapaConexion.dll
+D:\duoc\duoc-arquitectura\tipoPrueba\CapaConexion\obj\Debug\CapaConexion.pdb
